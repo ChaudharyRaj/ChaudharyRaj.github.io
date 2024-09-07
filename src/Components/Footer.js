@@ -11,17 +11,25 @@ function Footer() {
               <div className="row g-4 align-items-center">
                 <div className="col-12 text-center">
                   <div className="d-flex justify-content-center">
-                    <a className="btn btn-light btn-md-square me-3" href="">
-                      <i className="fab fa-facebook-f"></i>
+                    <a className="btn btn-light btn-md-square me-3"
+                    href="https://www.linkedin.com/in/raj-chaudhary-582861159/"
+                    target="_blank">
+                     <i className="fab fa-linkedin-in"></i>
                     </a>
-                    <a className="btn btn-light btn-md-square me-3" href="">
+                    <a className="btn btn-light btn-md-square me-3"
+                    href="https://x.com/Im_RajChaudhary"
+                    target="_blank">
                       <i className="fab fa-twitter"></i>
                     </a>
-                    <a className="btn btn-light btn-md-square me-3" href="">
+                    <a className="btn btn-light btn-md-square me-3"
+                    href="https://www.instagram.com/raj_chaudhary173/"
+                    target="_blank">
                       <i className="fab fa-instagram"></i>
                     </a>
-                    <a className="btn btn-light btn-md-square me-0" href="">
-                      <i className="fab fa-linkedin-in"></i>
+                    <a className="btn btn-light btn-md-square me-0"
+                    target="_blank"
+                    href="https://www.facebook.com/profile.php?id=100010734795804">
+                      <i className="fab fa-facebook-f"></i>
                     </a>
                   </div>
                 </div>

@@ -8,7 +8,7 @@ function Education() {
           <div className="col-lg-3">
             <div className="education-header bg-dark h-100 pt-6 pe-6 pb-6">
               <div
-                className="text-start d-flex flex-column justify-content-center wow fadeInUp"
+                className="text-start d-lg-flex flex-column justify-content-center wow fadeInUp"
                 data-wow-delay="0.1s"
               >
                 <p className="text-white sub-title">Education</p>
@@ -26,7 +26,7 @@ function Education() {
                     className="education-item rounded p-4 h-100 wow fadeInUp"
                     data-wow-delay="0.1s"
                   >
-                    <div className="d-flex align-items-center mb-3">
+                    <div className="d-lg-flex  align-items-center mb-3">
                       <p className="fs-5 mb-0 me-4">University of Pune</p>
                       <div>
                         <span className="fa fa-calendar me-1"></span> 2018 -
@@ -46,7 +46,7 @@ function Education() {
                     className="education-item rounded p-4 h-100 wow fadeInUp"
                     data-wow-delay="0.1s"
                   >
-                    <div className="d-flex align-items-center mb-3">
+                    <div className="d-lg-flex  align-items-center mb-3">
                       <p className="fs-5 mb-0 me-4">Mewar University, India</p>
                       <div>
                         <span className="fa fa-calendar me-1"></span> 2014 -

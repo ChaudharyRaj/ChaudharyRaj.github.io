@@ -30,16 +30,7 @@ function Contact() {
                       </div>
                       <div>
                         <h4>Address</h4>
-                        <p class="mb-0">123 Street New York.USA</p>
-                      </div>
-                    </div>
-                    <div class="d-flex mb-4">
-                      <div class="btn-xl-square bg-primary text-white me-3">
-                        <i class="fas fa-envelope"></i>
-                      </div>
-                      <div>
-                        <h4>Mail Us</h4>
-                        <p class="mb-0">info@example.com</p>
+                        <p class="mb-0">Pune, India</p>
                       </div>
                     </div>
                     <div class="d-flex">
@@ -48,7 +39,7 @@ function Contact() {
                       </div>
                       <div>
                         <h4>Telephone</h4>
-                        <p class="mb-0">(+012) 3456 7890</p>
+                        <p class="mb-0">(+091) 9110 910 890</p>
                       </div>
                     </div>
                   </div>

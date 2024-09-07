@@ -83,29 +83,35 @@ function Header() {
                       <p className="text-dark mb-0">rajchaudhary.com</p>
                     </div>
                     <div className="d-flex">
+                      
                       <a
                         className="btn btn-primary btn-sm-square me-3"
-                        href="#"
+                        href="https://www.linkedin.com/in/raj-chaudhary-582861159/"
+                        target="_blank"
                       >
-                        <i className="fab fa-facebook-f text-white"></i>
+                        <i className="fab fa-linkedin-in text-white"></i>
+                       
                       </a>
                       <a
                         className="btn btn-primary btn-sm-square me-3"
-                        href="#"
+                        href="https://x.com/Im_RajChaudhary"
+                        target="_blank"
                       >
                         <i className="fab fa-twitter text-white"></i>
                       </a>
                       <a
                         className="btn btn-primary btn-sm-square me-3"
-                        href="#"
+                        href="https://www.instagram.com/raj_chaudhary173/"
+                        target="_blank"
                       >
                         <i className="fab fa-instagram text-white"></i>
                       </a>
                       <a
                         className="btn btn-primary btn-sm-square me-0"
-                        href="#"
+                        target="_blank"
+                        href="https://www.facebook.com/profile.php?id=100010734795804"
                       >
-                        <i className="fab fa-linkedin-in text-white"></i>
+                        <i className="fab fa-facebook-f text-white"></i>
                       </a>
                     </div>
                   </div>

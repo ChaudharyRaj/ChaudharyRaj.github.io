@@ -48,7 +48,7 @@ function Experience() {
                     <div className="d-lg-flex align-items-center mb-3">
                       <p className="fs-5 mb-0 me-4">Deltek | Replicon Inc</p>
                       <div>
-                        <span className="fa fa-calendar me-1"></span>May 2023 - May 2024
+                        <span className="fa fa-calendar me-1"></span>Oct 2021 - May 2024
                       </div>
                     </div>
                     <p>Bengaluru, Karnataka, India</p>
@@ -71,7 +71,7 @@ function Experience() {
                     <div className="d-lg-flex align-items-center mb-3">
                       <p className="fs-5 mb-0 me-4">3RI Technologies Pvt, INDIA</p>
                       <div>
-                        <span className="fa fa-calendar me-1"></span> 2017 - 2019
+                        <span className="fa fa-calendar me-1"></span> Jul 2017 - Aug 2018
                       </div>
                     </div>
                     <p>Pune, Maharashtra India</p>
@@ -94,7 +94,7 @@ function Experience() {
                     <div className="d-lg-flex align-items-center mb-3">
                       <p className="fs-5 mb-0 me-4">3RI Technologies Pvt</p>
                       <div>
-                        <span className="fa fa-calendar me-1"></span> 2017 - 2019
+                        <span className="fa fa-calendar me-1"></span> Jan 2017 - Jul 2017
                       </div>
                     </div>
                     <p>Pune, Maharashtra India</p>

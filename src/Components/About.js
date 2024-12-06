@@ -28,7 +28,7 @@ function About() {
                     data-wow-delay="0.1s"
                   >
                     <img
-                      src="img/aboutme.jpg"
+                      src="img/about_me_carporate.jpeg"
                       className="img-fluid w-100"
                       alt="about img"
                     />

@@ -22,7 +22,7 @@ function Footer() {
                       <i className="fab fa-twitter"></i>
                     </a>
                     <a className="btn btn-light btn-md-square me-3"
-                    href="https://www.instagram.com/raj_chaudhary173/"
+                    href="https://www.instagram.com/the.rkch/"
                     target="_blank">
                       <i className="fab fa-instagram"></i>
                     </a>

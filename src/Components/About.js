@@ -14,7 +14,7 @@ function About() {
               >
                 <p className="text-white sub-title">About Me</p>
                 <h1 className="display-6 text-white mb-0">
-                  Mobile Software Engineer II - Android INDIA since 2021
+                  Mobile Software Engineer - INDIA
                 </h1>
               </div>
             </div>
@@ -61,13 +61,16 @@ function About() {
                   </div>
                 </div>
                 <div className="col-xl-7 wow fadeInUp" data-wow-delay="0.3s">
-                  <h4 className="mb-4">About me,</h4>
-                  <p className="mb-4">I’m Raj Kumar Chaudhary, a Software Engineer with over 3 years of experience in Android app development. 
-                  I specialize in Java, Kotlin, and the Android SDK, with a strong focus on MVVM architecture, Android ViewModels, Kotlin coroutines, Jetpack Compose, and Retrofit.
+                  <h4 className="mb-4">About me</h4>
+                  <p className="mb-4">I’m Raj Chaudhary, a Software Engineer with 5 years of experience in mobile app development. I specialize in Android development with Java, Kotlin, and the Android SDK, leveraging MVVM architecture, Android ViewModels, Kotlin coroutines, Jetpack Compose, and Retrofit to build scalable and maintainable applications.
                   </p>
                   <p className="mb-4">
+                    In addition to Android, I have recently expanded into iOS development, working with Swift and SwiftUI to create seamless, high-quality apps across platforms.
+                  </p>
+                  <p className="mb-4">
+                  
                     I have a proven track record of delivering high-quality mobile solutions that enhance user experience and meet customer needs. 
-                    Currently, I’m part of the Android team at Global Payments Inc., working on secure and efficient payment apps.
+                    Currently, I’m part of the Android team at Global Payments Inc. working on secure and efficient payment apps.
                   </p>
 
                   <p className="mb-4">

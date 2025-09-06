@@ -19,108 +19,108 @@ function Portfolio() {
           <div class="col-lg-9">
             <div class="portfolio-content h-100 pt-6 ps-6 pb-6">
               <div
-                class="portfolio-item py-5 border-bottom wow fadeInUp"
+                class="py-5 border-bottom wow fadeInUp"
                 data-wow-delay="0.1s"
               >
                 <div class="row g-4 align-items-center">
                   <div class="col-xl-6">
-                    <h4 class="text-body">Time Intelligence App</h4>
+                    <h4 class="text-body">Point of Sale (POS) App</h4>
                     <h2 class="display-6 mb-0">
-                    Replicon Time Tracking App – Mobile Timesheets
+                      Universal downloader 
+                      by Global Payments
                     </h2>
                   </div>
-                  <div class="col-9 col-xl-4">
+                  <div class="col-12 col-xl-6">
                     <div class="portfolio-img">
                       <div class="portfolio-img-inner">
                         <img
-                          src="img/mobile-time-tracking.webp"
+                          src="img/24-mobile-730x580_2209.webp"
                           class="img-fluid"
                           alt="portfolio"
                         />
                       </div>
                     </div>
                   </div>
-                  <div class="col-3 col-xl-2">
-                    <div class="view-img">
-                      <a
-                        href=""
-                        class="btn btn-primary btn-lg-square"
-                        data-lightbox="Portfolio-1"
-                      >
-                        <i class="fas fa-plus"></i>
-                      </a>
-                    </div>
-                  </div>
                 </div>
               </div>
               <div
-                class="portfolio-item py-5 border-bottom wow fadeInUp"
+                class="py-5 border-bottom wow fadeInUp"
                 data-wow-delay="0.3s"
               >
                 <div class="row g-4 align-items-center">
-                  <div class="col-xl-6">
-                    <h4 class="text-body">Web Development</h4>
+                <div class="col-xl-6">
+                  <div>
+                    <h4 class="text-body">Time Intelligence Mobile App</h4>
                     <h1 class="display-6 mb-0">
-                      Website Development for ABC Corporation
+                      Replicon Timesheets - Time Tracking App
                     </h1>
                   </div>
-                  <div class="col-9 col-xl-4">
+                  <br></br>
+                  <h5  class="text-body">
+                      <a href="https://play.google.com/store/apps/details?id=com.repliconandroid&hl=en_IN"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{ textDecoration: "none", color: "inherit" }}>
+                         <img
+                          src="img/google-play-icon.png"
+                          alt="Google Play Store"
+                          style={{ width: "150px", height: "auto" }} // Adjust size as needed
+                        />
+                    </a>
+                  </h5>
+                </div>
+                  <div class="col-12 col-xl-6">
                     <div class="portfolio-img">
                       <div class="portfolio-img-inner">
                         <img
-                          src="img/portfolio-2.jpg"
+                          src="img/mobile-time-tracking.webp"
                           class="img-fluid"
                           alt="portfolio-2"
                         />
                       </div>
                     </div>
                   </div>
-                  <div class="col-3 col-xl-2">
-                    <div class="view-img">
-                      <a
-                        href="img/portfolio-2.jpg"
-                        class="btn btn-primary btn-lg-square"
-                        data-lightbox="portfolio-2"
-                      >
-                        <i class="fas fa-plus"></i>
-                      </a>
-                    </div>
-                  </div>
+                  
                 </div>
               </div>
-              <div
-                class="portfolio-item py-5 wow fadeInUp"
-                data-wow-delay="0.5s"
+
+               <div
+                class="py-5 border-bottom wow fadeInUp"
+                data-wow-delay="0.3s"
               >
                 <div class="row g-4 align-items-center">
                   <div class="col-xl-6">
-                    <h4 class="text-body">Photography</h4>
-                    <h1 class="display-6 mb-0">
-                      Security Analysis for ABC Corporation
-                    </h1>
+                    <h4 class="text-body">Digital Classroom - Mobile App</h4>
+                    <h2 class="display-6 mb-0">
+                      A smart learning app designed to simplify education <br></br>
+                      by 3RI Technologies
+                    </h2>
+                    <br></br>
+                    <h5  class="text-body">
+                      <a href="https://play.google.com/store/apps/details?id=in.testpress.Threeritechnologies&hl=en_IN"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{ textDecoration: "none", color: "inherit" }}>
+                         <img
+                          src="img/google-play-icon.png"
+                          alt="Google Play Store"
+                          style={{ width: "150px", height: "auto" }} // Adjust size as needed
+                        />
+                    </a>
+                  </h5>
                   </div>
-                  <div class="col-9 col-xl-4">
+                  <div class="col-12 col-xl-6">
                     <div class="portfolio-img">
                       <div class="portfolio-img-inner">
                         <img
-                          src="img/portfolio-3.jpg"
+                          src="img/3ritechnologiesapp-preview (1).png"
                           class="img-fluid"
-                          alt="portfolio-3"
+                          alt="portfolio-2"
                         />
                       </div>
                     </div>
                   </div>
-                  <div class="col-3 col-xl-2">
-                    <div class="view-img">
-                      <a
-                        href="img/portfolio-3.jpg"
-                        class="btn btn-primary btn-lg-square"
-                        data-lightbox="portfolio-3"
-                      >
-                        <i class="fas fa-plus"></i>
-                      </a>
-                    </div>
-                  </div>
+                  
                 </div>
               </div>
             </div>

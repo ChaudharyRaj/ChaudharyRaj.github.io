@@ -38,8 +38,8 @@ function Contact() {
                         <i class="fa fa-phone-alt"></i>
                       </div>
                       <div>
-                        <h4>Telephone</h4>
-                        <p class="mb-0">(+091) 9110 910 890</p>
+                        <h4>Phone Number</h4>
+                        <p class="mb-0">(+91) 9110 910 890</p>
                       </div>
                     </div>
                   </div>

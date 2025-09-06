@@ -2,7 +2,7 @@ import React from "react";
 
 function Skills() {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid" id="pigraSkills">
       <div className="container">
         <div className="row g-0">
           <div className="col-lg-3">
@@ -29,7 +29,7 @@ function Skills() {
                     </div>
                     <div className="counter-counting d-flex justify-content-center">
                       <h4 className="display-6" data-toggle="counter-up">
-                        99
+                        100
                       </h4>
                       <h4 className="display-6">%</h4>
                     </div>
@@ -63,7 +63,7 @@ function Skills() {
                     </div>
                     <div className="counter-counting d-flex justify-content-center">
                       <h4 className="display-6" data-toggle="counter-up">
-                        99
+                        100
                       </h4>
                       <h4 className="display-6">%</h4>
                     </div>
@@ -80,7 +80,7 @@ function Skills() {
                     </div>
                     <div className="counter-counting d-flex justify-content-center">
                       <h4 className="display-6" data-toggle="counter-up">
-                        99
+                        100
                       </h4>
                       <h4 className="display-6">%</h4>
                     </div>
@@ -93,7 +93,61 @@ function Skills() {
                     data-wow-delay="0.7s"
                   >
                     <div className="text-primary text-center mb-3">
-                    <img className="android-image" src="img/node-js.svg"/>
+                    <img className="android-image" src="img/ios-mage.png"/>
+                    </div>
+                    <div className="counter-counting d-flex justify-content-center">
+                      <h4 className="display-6" data-toggle="counter-up">
+                        99
+                      </h4>
+                      <h4 className="display-6">%</h4>
+                    </div>
+                    <p className="mb-0">iOS</p>
+                  </div>
+                </div>
+
+              <div className="col-6 col-md-4 col-lg-4 col-xl-3">
+                  <div
+                    className="skills-item text-center rounded p-4 h-100 wow fadeInUp"
+                    data-wow-delay="0.7s"
+                  >
+                    <div className="text-primary text-center mb-3">
+                    <img className="android-image" src="img/swift.png"/>
+                    </div>
+                    <div className="counter-counting d-flex justify-content-center">
+                      <h4 className="display-6" data-toggle="counter-up">
+                        99
+                      </h4>
+                      <h4 className="display-6">%</h4>
+                    </div>
+                    <p className="mb-0">Swift</p>
+                  </div>
+                </div>
+
+                 <div className="col-6 col-md-4 col-lg-4 col-xl-3">
+                  <div
+                    className="skills-item text-center rounded p-4 h-100 wow fadeInUp"
+                    data-wow-delay="0.7s"
+                  >
+                    <div className="text-primary text-center mb-3">
+                    <img className="android-image" src="img/icons8-swiftui-240.png"/>
+                    </div>
+                    <div className="counter-counting d-flex justify-content-center">
+                      <h4 className="display-6" data-toggle="counter-up">
+                        99
+                      </h4>
+                      <h4 className="display-6">%</h4>
+                    </div>
+                    <p className="mb-0">SwiftUI</p>
+                  </div>
+                </div>
+
+                <div className="col-6 col-md-4 col-lg-4 col-xl-3">
+                  <div
+                    className="skills-item text-center rounded p-4 h-100 wow fadeInUp"
+                    data-wow-delay="0.7s"
+                  >
+                    <div className="text-primary text-center mb-3">
+                    <img className="android-image" src="img/objectc.png"/>
                     </div>
                     <div className="counter-counting d-flex justify-content-center">
                       <h4 className="display-6" data-toggle="counter-up">
@@ -101,7 +155,24 @@ function Skills() {
                       </h4>
                       <h4 className="display-6">%</h4>
                     </div>
-                    <p className="mb-0">Node js</p>
+                    <p className="mb-0">bjective C</p>
+                  </div>
+                </div>
+                 <div className="col-6 col-md-4 col-lg-4 col-xl-3">
+                  <div
+                    className="skills-item text-center rounded p-4 h-100 wow fadeInUp"
+                    data-wow-delay="0.7s"
+                  >
+                    <div className="text-primary text-center mb-3">
+                    <img className="android-image" src="img/Kotlin.png"/>
+                    </div>
+                    <div className="counter-counting d-flex justify-content-center">
+                      <h4 className="display-6" data-toggle="counter-up">
+                        98
+                      </h4>
+                      <h4 className="display-6">%</h4>
+                    </div>
+                    <p className="mb-0">KMP</p>
                   </div>
                 </div>
                 <div className="col-6 col-md-4 col-lg-4 col-xl-3">
@@ -132,13 +203,14 @@ function Skills() {
                     </div>
                     <div className="counter-counting d-flex justify-content-center">
                       <h4 className="display-6" data-toggle="counter-up">
-                        99
+                        100
                       </h4>
                       <h4 className="display-6">%</h4>
                     </div>
                     <p className="mb-0">Algorithms</p>
                   </div>
                 </div>
+
                 <div className="col-6 col-md-4 col-lg-4 col-xl-3">
                   <div
                     className="skills-item text-center rounded p-4 h-100 wow fadeInUp"

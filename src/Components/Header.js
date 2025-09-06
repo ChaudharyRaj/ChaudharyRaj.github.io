@@ -52,7 +52,7 @@ function Header() {
                   <div className="col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h4 className="display-6 mb-4">Mobile Software Engineer</h4>
                     <p className="mb-4">
-                      I'm an experienced Software Engineer with over 3 years of expertise in Native Android app development, specializing in Java, Kotlin, and Android SDK.
+                      I'm an experienced Software Engineer with 5 years of expertise in Mobile app development, specializing in Java, Kotlin, Swift, SwiftUI, and Android SDK, Kotlin Multiplatform and iOS.
                     </p>
 
                     <p className="mb-4">
@@ -72,7 +72,9 @@ function Header() {
                     </div>
                     <div className="d-flex align-items-center mb-2">
                     <i className="fab fa-github text-primary me-3"></i>
+                        <a href="https://github.com/ChaudharyRaj" target="_blank" style={{ textDecoration: "none", color: "inherit" }}>
                       <p className="text-dark mb-0">https://github.com/ChaudharyRaj</p>
+                      </a>
                     </div>
                     <div className="d-flex align-items-center mb-2">
                       <i className="fa fa-phone-alt text-primary me-3"></i>
@@ -101,7 +103,7 @@ function Header() {
                       </a>
                       <a
                         className="btn btn-primary btn-sm-square me-3"
-                        href="https://www.instagram.com/raj_chaudhary173/"
+                        href="https://www.instagram.com/the.rkch/"
                         target="_blank"
                       >
                         <i className="fab fa-instagram text-white"></i>

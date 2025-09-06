@@ -2,7 +2,7 @@ import React from "react";
 
 function Education() {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid" id="pigraEducation">
       <div className="container">
         <div className="row g-0">
           <div className="col-lg-3">

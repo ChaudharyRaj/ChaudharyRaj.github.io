@@ -361,12 +361,12 @@
 .portfolio-content .portfolio-item .portfolio-img {
   position: relative;
   width: 100%;
-  height: 150px;
+  /* height: 150px; */
 }
 
 .portfolio-item .portfolio-img .portfolio-img-inner {
   width: 100%;
-  height: 150px;
+  /* height: 150px; */
   position: absolute;
   top: 0;
   left: 0;
@@ -374,7 +374,7 @@
 
 .portfolio-item .portfolio-img .portfolio-img-inner img {
   width: 100%;
-  height: 150px;
+  /* height: 150px; */
   object-fit: cover;
 }
 
@@ -385,7 +385,7 @@
 }
 
 .portfolio-content .portfolio-item .portfolio-img .portfolio-img-inner {
-  visibility: hidden;
+  /* visibility: hidden; */
   transition: 0.5s;
 }
 
@@ -499,4 +499,18 @@
 }
 .android-image{
   width: 70px;
+}
+
+.py-5.wow.fadeInUp {
+  height: auto !important; /* Allow dynamic height */
+  overflow: visible !important; /* Prevent cropping */
+}
+
+.py-5.wow.fadeInUp .portfolio-img .portfolio-img-inner {
+  transition: 0.5s; /* Keep transition styles */
+}
+
+.py-5.wow.fadeInUp:hover .portfolio-img .portfolio-img-inner {
+  visibility: visible;
+  transform: rotate(-6deg); /* Example transition effect */
 }

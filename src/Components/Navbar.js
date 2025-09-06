@@ -11,11 +11,11 @@ function Navbar() {
           <a href="#pigraAbout" className="nav-item nav-link">
             <span className="far fa-address-card"></span> About
           </a>
-          <a href="#pigraService" className="nav-item nav-link">
-            <span className="fab fa-servicestack"></span> Service
+          <a href="#pigraEducation" className="nav-item nav-link">
+           <span className="fas fa-graduation-cap"></span> Education
           </a>
-          <a href="#pigraBlog" className="nav-item nav-link">
-            <span className="fa fa-blog"></span> Blog
+          <a href="#pigraSkills" className="nav-item nav-link">
+            <span className="fa fa-tools"></span> Skills
           </a>
           <a href="#pigraContact" className="nav-item nav-link">
             <span className="fas fa-address-book"></span> Contact

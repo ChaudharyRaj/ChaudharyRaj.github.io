@@ -21,6 +21,26 @@ function Experience() {
           <div className="col-lg-9">
             <div className="experience-content h-100 pt-6 ps-6 pb-6">
               <div className="row g-4">
+              <div className="col-12">
+                  <div
+                    className="experience-item rounded p-4 h-100 wow fadeInUp"
+                    data-wow-delay="0.1s"
+                  >
+                    <div className="d-lg-flex align-items-center mb-3">
+                      <p className="fs-5 mb-0 me-4">Global Payments Inc</p>
+                      <div>
+                        <span className="fa fa-calendar me-1"></span>Jun 2026 - Present
+                      </div>
+                    </div>
+                    <p>Pune, Maharashtra, India</p>
+                    <h4 className="mb-3">Associate Senior Software Engineer</h4>
+                    <p className="mb-0">
+                    Working on enterprise-grade Android POS and payment solutions at  Global Payments￼. Currently contributing to the Genius POS platform, focusing on payment workflows, code modernization, Java-to-Kotlin migration, and application reliability. 
+                    Previously contributed to Universal Download Manager, supporting scalable application distribution across multi-vendor Android POS devices and region-specific deployments. 
+                    Passionate about building secure, high-performance solutions that power real-world payment experiences.
+                    </p>
+                  </div>
+                </div>
                 <div className="col-12">
                   <div
                     className="experience-item rounded p-4 h-100 wow fadeInUp"
@@ -29,14 +49,15 @@ function Experience() {
                     <div className="d-lg-flex align-items-center mb-3">
                       <p className="fs-5 mb-0 me-4">Global Payments Inc</p>
                       <div>
-                        <span className="fa fa-calendar me-1"></span>Jul 2024 - Present
+                        <span className="fa fa-calendar me-1"></span>Jul 2024 - June 2026
                       </div>
                     </div>
                     <p>Pune, Maharashtra, India</p>
                     <h4 className="mb-3">Software Engineer II - Android</h4>
                     <p className="mb-0">
-                    Currently, I’m part of the Android team at Global Payments Inc. where I work on payment apps, ensuring security and seamless end-to-end transactions. 
-                    I’m excited about leveraging my expertise to contribute to innovative projects and drive the growth and success of the teams I work with.
+                      As a Software Engineer II at Global Payments, I contributed to the Universal Download Manager, a solution responsible for application distribution and updates across Android POS devices. 
+                      My work included supporting the migration to a CDN-based architecture, implementing chunk-based APK downloads, integrating centralized logging using Firebase Crashlytics and Firestore, 
+                      and improving application reliability across multi-vendor and region-specific device deployments.
                     </p>
                   </div>
                 </div>
@@ -77,12 +98,6 @@ function Experience() {
                     <p>Pune, Maharashtra India</p>
                     <h4 className="mb-3">Software Engineer</h4>
                     <p className="mb-0">Gained extensive industry experience as a Software Developer at 3RI Technologies, where I worked across a diverse set of technologies and projects. Contributed to various initiatives using Android, PHP, Angular, Python, Django, Flask, and Payment Gateway integrations.</p>
-                    <br></br>
-                    <p><b>Key Responsibilities:</b></p>
-                    <p> <b>Android Development:</b> Developed and maintained Android applications, focusing on delivering high-quality, user-centric mobile solutions.</p>
-                    <p><b>Full-Stack Development:</b> Leveraged PHP and Angular for building dynamic web applications, while utilizing Python with Django and Flask for backend development, ensuring seamless integration across the tech stack.</p>
-                    <p><b>Payment Integration:</b> Implemented and managed payment gateway solutions, enhancing transaction security and efficiency for web applications.</p>
-                    <p><b>Collaborative Projects:</b> Worked on multiple projects simultaneously, contributing to both front-end and back-end development, and participating in project planning, design, and execution.</p>
                   </div>
                 </div>
 
@@ -102,11 +117,6 @@ function Experience() {
                     <p className="mb-0">During my internship at 3RI Technologies, 
                       I gained hands-on experience in Android app development and backend technologies.
                       This role provided a solid foundation in building mobile applications and understanding server-side integration.</p>
-                      <br></br>
-                      <p><b>Key Responsibilities:</b></p>
-                      <p><b>Android Development: </b>Developed Android applications using Java, focusing on core functionalities and user interface design.</p>
-                      <p><b>Backend Integration: </b>Worked with Django and MongoDB to manage backend services, ensuring smooth data handling and integration with mobile applications.</p>
-                      <p><b>Learning and Development: </b>Acquired practical skills in app development, including debugging, testing, and optimizing application performance.</p>
                   </div>
                 </div>
               </div>

@@ -18,6 +18,30 @@ function Portfolio() {
           </div>
           <div class="col-lg-9">
             <div class="portfolio-content h-100 pt-6 ps-6 pb-6">
+            <div
+                class="py-5 border-bottom wow fadeInUp"
+                data-wow-delay="0.1s"
+              >
+                <div class="row g-4 align-items-center">
+                  <div class="col-xl-6">
+                    <h4 class="text-body">Genius Retail POS System and Payment Solution                    </h4>
+                    <h2 class="display-6 mb-0">
+                      Genius by Global Payments
+                    </h2>
+                  </div>
+                  <div class="col-12 col-xl-6">
+                    <div class="portfolio-img">
+                      <div class="portfolio-img-inner">
+                        <img
+                          src="img/genius.png"
+                          class="img-fluid"
+                          alt="portfolio"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
               <div
                 class="py-5 border-bottom wow fadeInUp"
                 data-wow-delay="0.1s"

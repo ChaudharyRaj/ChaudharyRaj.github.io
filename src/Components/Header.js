@@ -23,8 +23,8 @@ function Header() {
                   <p className="text-white sub-title">
                     👋 Hello I'm Raj Chaudhary
                   </p>
-                  <h1 className="display-6 text-white mb-0 username">
-                    Mobile Software Engineer Based in India.
+                  <h1 className="display-6 text-white  mb-0 username">
+                    Mobile Software Engineer - Based in India
                   </h1>
                 </div>
               </div>
@@ -40,7 +40,7 @@ function Header() {
                       }}
                     >
                       <img
-                        src="img/about_raj_profile.jpg"
+                        src="img/my-photo-new.jpg"
                         className="img-fluid w-100"
                         style={{
                           borderRadius: "68% 32% 100% 0% / 0% 75% 25% 100%",
@@ -50,18 +50,10 @@ function Header() {
                     </div>
                   </div>
                   <div className="col-xl-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <h4 className="display-6 mb-4">Mobile Software Engineer</h4>
-                    <p className="mb-4">
-                      I'm an experienced Software Engineer with 5 years of expertise in Mobile app development, specializing in Java, Kotlin, Swift, SwiftUI, and Android SDK, Kotlin Multiplatform and iOS.
-                    </p>
-
-                    <p className="mb-4">
-                      I’m proficient in MVVM architecture, Android ViewModels, Kotlin coroutines, LiveData, Jetpack Compose, and Retrofit, with a proven track record of delivering high-quality solutions that align with customer requirements.
-                    </p>
-
-                    <p className="mb-4">
-                      Skilled in optimizing app performance, enhancing user experience, and driving project success, I am eager to leverage my skills and contribute to the growth and success of your team.
-                    </p>
+                    <h4 className="display-6 mb-4">Associate Senior Software Engineer</h4>
+                    <p className="mb-4"> I’m an Associate Senior Software Engineer with 5+ years of experience in Android application development, specializing in building scalable, secure, and high-performance Android applications and payment solutions.</p>
+                    <p className="mb-4" > My expertise includes Kotlin, Java, Android SDK, MVVM, Jetpack, Coroutines, REST APIs, and Firebase, with hands-on experience in POS systems, payment solutions, and enterprise applications. I have contributed to products supporting payment processing, application distribution, and multi-vendor device ecosystems.</p>
+                    <p className="mb-4">Passionate about solving complex engineering challenges, improving software quality, and delivering reliable user experiences, I continuously strive to build impactful products that create real business value.</p>
                     <div className="d-flex align-items-center mb-2">
                       <i className="fas fa-map-marker-alt text-primary me-3"></i>
                       <p className="text-dark mb-0">Pune INDIA</p>

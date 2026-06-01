@@ -11,8 +11,8 @@ function Skills() {
                 className="text-start d-flex flex-column justify-content-center wow fadeInUp"
                 data-wow-delay="0.1s"
               >
-                <p className="text-white sub-title">Skills</p>
-                <h1 className="display-6 text-white mb-0">My expertise skills</h1>
+                <p className="text-white sub-title">Skills</p>  
+                <h3 className="display-6 text-white mb-0">My expertise in</h3>
               </div>
             </div>
           </div>
@@ -140,24 +140,6 @@ function Skills() {
                     <p className="mb-0">SwiftUI</p>
                   </div>
                 </div>
-
-                <div className="col-6 col-md-4 col-lg-4 col-xl-3">
-                  <div
-                    className="skills-item text-center rounded p-4 h-100 wow fadeInUp"
-                    data-wow-delay="0.7s"
-                  >
-                    <div className="text-primary text-center mb-3">
-                    <img className="android-image" src="img/objectc.png"/>
-                    </div>
-                    <div className="counter-counting d-flex justify-content-center">
-                      <h4 className="display-6" data-toggle="counter-up">
-                        98
-                      </h4>
-                      <h4 className="display-6">%</h4>
-                    </div>
-                    <p className="mb-0">bjective C</p>
-                  </div>
-                </div>
                  <div className="col-6 col-md-4 col-lg-4 col-xl-3">
                   <div
                     className="skills-item text-center rounded p-4 h-100 wow fadeInUp"
@@ -228,6 +210,26 @@ function Skills() {
                     <p className="mb-1">Problem Solving</p>
                   </div>
                 </div>
+
+                <div className="col-6 col-md-4 col-lg-4 col-xl-3">
+                  <div
+                    className="skills-item text-center rounded p-4 h-100 wow fadeInUp"
+                    data-wow-delay="0.1s"
+                  >
+                    <div className="text-primary text-center mb-3">
+                    <img className="android-image" src="img/github-copilot-icon.png"/>
+                    </div>
+                    <div className="counter-counting d-flex justify-content-center">
+                      <h4 className="display-6" data-toggle="counter-up">
+                        100
+                      </h4>
+                      <h4 className="display-6">%</h4>
+                    </div>
+                   <p className="mb-1">Github Copilot</p>
+                  </div>
+                </div>
+
+
               </div>
             </div>
           </div>

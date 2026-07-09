@@ -139,7 +139,7 @@ function Skills() {
                     </div>
                     <p className="mb-0">SwiftUI</p>
                   </div>
-                </div>
+                </div>  
                  <div className="col-6 col-md-4 col-lg-4 col-xl-3">
                   <div
                     className="skills-item text-center rounded p-4 h-100 wow fadeInUp"
